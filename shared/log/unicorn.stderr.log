@@ -1,0 +1,489 @@
+I, [2013-08-25T19:57:59.847469 #5616]  INFO -- : Refreshing Gem list
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs/runtimes.rb:51:in `autodetect': Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes. (ExecJS::RuntimeUnavailable)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs.rb:5:in `<module:ExecJS>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs.rb:4:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/uglifier-2.1.2/lib/uglifier.rb:3:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/uglifier-2.1.2/lib/uglifier.rb:3:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:72:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:72:in `block (2 levels) in require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:70:in `each'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:70:in `block in require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:59:in `each'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:59:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler.rb:132:in `require'
+	from /var/www/stasnkz.ru/ruby/treebook/config/application.rb:7:in `<top (required)>'
+	from /var/www/stasnkz.ru/ruby/treebook/config/environment.rb:2:in `require'
+	from /var/www/stasnkz.ru/ruby/treebook/config/environment.rb:2:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `block in builder'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `call'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `build_app!'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:140:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `<main>'
+I, [2013-08-25T20:23:43.476624 #5727]  INFO -- : Refreshing Gem list
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs/runtimes.rb:51:in `autodetect': Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes. (ExecJS::RuntimeUnavailable)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs.rb:5:in `<module:ExecJS>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/execjs-2.0.0/lib/execjs.rb:4:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/uglifier-2.1.2/lib/uglifier.rb:3:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/uglifier-2.1.2/lib/uglifier.rb:3:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:72:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:72:in `block (2 levels) in require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:70:in `each'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:70:in `block in require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:59:in `each'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler/runtime.rb:59:in `require'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.3.5/lib/bundler.rb:132:in `require'
+	from /var/www/stasnkz.ru/ruby/treebook/config/application.rb:7:in `<top (required)>'
+	from /var/www/stasnkz.ru/ruby/treebook/config/environment.rb:2:in `require'
+	from /var/www/stasnkz.ru/ruby/treebook/config/environment.rb:2:in `<top (required)>'
+	from config.ru:4:in `require'
+	from config.ru:4:in `block in <main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/builder.rb:55:in `instance_eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/builder.rb:55:in `initialize'
+	from config.ru:1:in `new'
+	from config.ru:1:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn.rb:48:in `block in builder'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `call'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:722:in `build_app!'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:140:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `<main>'
+I, [2013-08-25T20:43:34.854493 #29997]  INFO -- : Refreshing Gem list
+I, [2013-08-25T20:43:35.851375 #29997]  INFO -- : listening on addr=/tmp/.unicorn.sock fd=11
+I, [2013-08-25T20:43:35.851812 #29997]  INFO -- : listening on addr=0.0.0.0:8080 fd=12
+I, [2013-08-25T20:43:36.012492 #30000]  INFO -- : worker=0 ready
+I, [2013-08-25T20:43:36.016333 #30003]  INFO -- : worker=1 ready
+I, [2013-08-25T20:43:36.018640 #30006]  INFO -- : worker=2 ready
+I, [2013-08-25T20:43:36.018989 #29997]  INFO -- : master process ready
+I, [2013-08-25T20:43:36.022611 #30009]  INFO -- : worker=3 ready
+89.189.166.187 - - [25/Aug/2013 20:49:26] "GET %2Findex.html HTTP/1.1" 200 5906 0.0123
+89.189.166.187 - - [25/Aug/2013 20:49:26] "GET /assets/rails.png HTTP/1.1" 404 12069 0.2827
+89.189.166.187 - - [25/Aug/2013 20:49:26] "GET %2Ffavicon.ico HTTP/1.1" 200 - 0.0117
+89.189.166.187 - - [25/Aug/2013 20:49:29] "GET /rails/info/properties HTTP/1.1" 200 - 0.1549
+89.189.166.187 - - [25/Aug/2013 20:49:44] "GET /rails/info/properties HTTP/1.1" 304 - 0.2024
+89.189.166.187 - - [25/Aug/2013 20:49:45] "GET /rails/info/properties HTTP/1.1" 304 - 0.1670
+89.189.166.187 - - [25/Aug/2013 20:49:46] "GET /rails/info/properties HTTP/1.1" 304 - 0.1136
+89.189.166.187 - - [25/Aug/2013 20:49:52] "GET /rails/info/properties HTTP/1.1" 304 - 0.0346
+89.189.166.187 - - [25/Aug/2013 20:49:53] "GET /rails/info/routes HTTP/1.1" 200 - 0.0392
+89.189.166.187 - - [25/Aug/2013 20:50:33] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1776
+89.189.166.187 - - [25/Aug/2013 20:50:34] "GET /rails/info/properties HTTP/1.1" 304 - 0.0310
+89.189.166.187 - - [25/Aug/2013 20:51:28] "GET %2Findex.html HTTP/1.1" 304 - 0.0025
+89.189.166.187 - - [25/Aug/2013 20:51:29] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1906
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:193:in `pid=': Already running on PID:29997 (or pid=/var/www/stasnkz.ru/ruby/treebook/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:137:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `<main>'
+89.189.166.187 - - [25/Aug/2013 20:52:59] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1454
+89.189.166.187 - - [25/Aug/2013 20:53:00] "GET /rails/info/properties HTTP/1.1" 304 - 0.0334
+89.189.166.187 - - [25/Aug/2013 20:57:49] "GET %2Findex.html HTTP/1.1" 304 - 0.0024
+89.189.166.187 - - [25/Aug/2013 20:57:50] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1816
+89.189.166.187 - - [25/Aug/2013 20:57:53] "GET /rails/info/properties HTTP/1.1" 304 - 0.0321
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:193:in `pid=': Already running on PID:29997 (or pid=/var/www/stasnkz.ru/ruby/treebook/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:137:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `load'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `<main>'
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:193:in `pid=': Already running on PID:29997 (or pid=/var/www/stasnkz.ru/ruby/treebook/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:137:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `load'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `<main>'
+89.189.166.187 - - [25/Aug/2013 21:07:58] "GET %2Findex.html HTTP/1.1" 304 - 0.0026
+89.189.166.187 - - [25/Aug/2013 21:07:58] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1859
+89.189.166.187 - - [25/Aug/2013 21:07:59] "GET /rails/info/properties HTTP/1.1" 304 - 0.0319
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:193:in `pid=': Already running on PID:29997 (or pid=/var/www/stasnkz.ru/ruby/treebook/shared/pids/unicorn.pid is stale) (ArgumentError)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:137:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `load'
+	from /var/www/stasnkz.ru/ruby/treebook/bin/unicorn:16:in `<main>'
+89.189.166.187 - - [25/Aug/2013 21:10:00] "GET %2Findex.html HTTP/1.1" 304 - 0.0021
+89.189.166.187 - - [25/Aug/2013 21:10:00] "GET /assets/rails.png HTTP/1.1" 404 12069 0.1631
+89.189.166.187 - - [25/Aug/2013 21:10:00] "GET %2Ffavicon.ico HTTP/1.1" 304 - 0.0009
+89.189.166.187 - - [25/Aug/2013 21:10:02] "GET /rails/info/properties HTTP/1.1" 304 - 0.0299
+89.189.166.187 - - [25/Aug/2013 21:10:04] "GET /rails/info/properties HTTP/1.1" 304 - 0.0184
+I, [2013-08-25T21:10:19.624093 #29997]  INFO -- : reaped #<Process::Status: pid 30000 exit 0> worker=0
+I, [2013-08-25T21:10:19.624469 #29997]  INFO -- : reaped #<Process::Status: pid 30003 exit 0> worker=1
+I, [2013-08-25T21:10:19.624700 #29997]  INFO -- : reaped #<Process::Status: pid 30006 exit 0> worker=2
+I, [2013-08-25T21:10:19.624911 #29997]  INFO -- : reaped #<Process::Status: pid 30009 exit 0> worker=3
+I, [2013-08-25T21:10:19.625113 #29997]  INFO -- : master complete
+I, [2013-08-25T21:13:37.852698 #3313]  INFO -- : Refreshing Gem list
+I, [2013-08-25T21:13:41.555844 #3313]  INFO -- : listening on addr=/tmp/unicorn.sock fd=10
+E, [2013-08-25T21:13:41.556798 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+E, [2013-08-25T21:13:41.556928 #3313] ERROR -- : retrying in 0.5 seconds (4 tries left)
+E, [2013-08-25T21:13:42.074246 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+E, [2013-08-25T21:13:42.074404 #3313] ERROR -- : retrying in 0.5 seconds (3 tries left)
+E, [2013-08-25T21:13:42.574711 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+E, [2013-08-25T21:13:42.574820 #3313] ERROR -- : retrying in 0.5 seconds (2 tries left)
+E, [2013-08-25T21:13:43.075204 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+E, [2013-08-25T21:13:43.075351 #3313] ERROR -- : retrying in 0.5 seconds (1 tries left)
+E, [2013-08-25T21:13:43.575682 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+E, [2013-08-25T21:13:43.575793 #3313] ERROR -- : retrying in 0.5 seconds (0 tries left)
+E, [2013-08-25T21:13:44.076104 #3313] ERROR -- : adding listener failed addr=0.0.0.0:80 (in use)
+/usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/socket_helper.rb:147:in `initialize': Address already in use - bind(2) (Errno::EADDRINUSE)
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/socket_helper.rb:147:in `new'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/socket_helper.rb:147:in `bind_listen'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:229:in `listen'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:773:in `block in bind_new_listeners!'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:773:in `each'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:773:in `bind_new_listeners!'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/lib/unicorn/http_server.rb:141:in `start'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/gems/unicorn-4.6.3/bin/unicorn:126:in `<top (required)>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `load'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/unicorn:23:in `<main>'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `eval'
+	from /usr/local/rvm/gems/ruby-2.0.0-p247/bin/ruby_noexec_wrapper:14:in `<main>'
+I, [2013-08-25T21:15:51.113737 #3328]  INFO -- : Refreshing Gem list
+I, [2013-08-25T21:15:52.144458 #3328]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2013-08-25T21:15:52.144752 #3328]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2013-08-25T21:15:52.145222 #3328]  INFO -- : listening on addr=0.0.0.0:8080 fd=12
+I, [2013-08-25T21:15:52.441366 #3328]  INFO -- : master process ready
+I, [2013-08-25T21:15:52.451350 #3331]  INFO -- : worker=0 ready
+I, [2013-08-25T21:15:52.453438 #3334]  INFO -- : worker=1 ready
+89.189.166.187 - - [25/Aug/2013 21:15:57] "GET /assets/rails.png HTTP/1.0" 404 12069 0.4018
+89.189.166.187 - - [25/Aug/2013 21:15:58] "GET /rails/info/properties HTTP/1.0" 200 - 0.1195
+89.189.166.187 - - [25/Aug/2013 21:19:28] "GET /assets/rails.png HTTP/1.0" 404 12069 0.0757
+89.189.166.187 - - [25/Aug/2013 21:19:30] "GET /rails/info/properties HTTP/1.0" 200 - 0.2645
+202.85.209.112 - - [26/Aug/2013 01:51:45] "GET /manager/html HTTP/1.1" 404 12065 0.3860
+50.56.12.188 - - [26/Aug/2013 09:06:42] "HEAD %2Findex.html HTTP/1.0" 200 5906 0.0030
+46.149.226.42 - - [26/Aug/2013 09:40:15] "GET /assets/rails.png HTTP/1.0" 404 12069 0.1475
+46.149.226.42 - - [26/Aug/2013 09:40:17] "GET /rails/info/properties HTTP/1.0" 200 - 0.0332
+46.149.226.42 - - [26/Aug/2013 09:40:26] "GET /rails/info/properties HTTP/1.0" 200 - 0.0347
+46.149.226.42 - - [26/Aug/2013 09:40:53] "GET /rails/info/properties HTTP/1.0" 200 - 0.0164
+178.216.50.22 - - [26/Aug/2013 09:48:09] "GET /sprawdza.php HTTP/1.1" 404 12065 0.0677
+176.31.14.31 - - [26/Aug/2013 13:00:36] "GET /rails/info/properties HTTP/1.0" 200 - 0.0163
+176.31.14.31 - - [26/Aug/2013 13:00:36] "GET /rails/info/routes HTTP/1.0" 200 - 0.0456
+178.165.70.123 - - [26/Aug/2013 15:24:08] "GET /administrator/index.php HTTP/1.0" 404 12076 0.0772
+66.249.73.106 - - [26/Aug/2013 16:00:24] "GET /rails/info/properties HTTP/1.0" 200 - 0.0309
+91.121.108.208 - - [26/Aug/2013 16:00:46] "GET /administrator/index.php HTTP/1.0" 404 12076 0.0689
+66.249.73.106 - - [26/Aug/2013 16:10:52] "GET /rails/info/routes HTTP/1.0" 200 - 0.0477
+66.249.73.106 - - [26/Aug/2013 16:49:29] "GET /css/style.css HTTP/1.0" 404 12066 0.0523
+66.249.78.88 - - [26/Aug/2013 19:07:57] "GET /apple-touch-icon.png HTTP/1.0" 404 12073 0.0536
+66.249.78.88 - - [26/Aug/2013 19:08:30] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 12085 0.0640
+178.210.65.38 - - [26/Aug/2013 20:56:45] "HEAD /bitrix/admin HTTP/1.0" 404 12066 0.0651
+178.210.65.38 - - [26/Aug/2013 20:56:47] "HEAD /bitrix/themes/.default/images/auth_pict.gif HTTP/1.0" 404 12097 0.0651
+178.210.65.38 - - [26/Aug/2013 20:56:48] "HEAD /bitrix/js/main/core/core.css HTTP/1.0" 404 12082 0.0974
+178.210.65.38 - - [26/Aug/2013 20:56:49] "HEAD /bitrix/themes/.default/adminstyles.css HTTP/1.0" 404 12092 0.0647
+178.210.65.38 - - [26/Aug/2013 20:56:50] "HEAD /user/login HTTP/1.0" 404 12064 0.0635
+178.210.65.38 - - [26/Aug/2013 20:56:51] "HEAD /node HTTP/1.0" 404 12058 0.1413
+178.210.65.38 - - [26/Aug/2013 20:56:53] "HEAD /user/password HTTP/1.0" 404 12067 0.0645
+178.210.65.38 - - [26/Aug/2013 20:56:54] "HEAD /modules/system/system.css HTTP/1.0" 404 12079 0.0389
+178.210.65.38 - - [26/Aug/2013 20:56:55] "HEAD /modules/system/system.base.css HTTP/1.0" 404 12084 0.1161
+178.210.65.38 - - [26/Aug/2013 20:56:56] "HEAD /media/system/js/mootools.js HTTP/1.0" 404 12081 0.0630
+178.210.65.38 - - [26/Aug/2013 20:56:57] "HEAD /templates/system/css/system.css HTTP/1.0" 404 12085 0.1423
+178.210.65.38 - - [26/Aug/2013 20:56:58] "HEAD /manager/media/style/MODxCarbon/images/misc/logo.png HTTP/1.0" 404 12105 0.0524
+178.210.65.38 - - [26/Aug/2013 20:57:00] "HEAD /manager/media/style/MODxCarbon/images/misc/login-logo.png HTTP/1.0" 404 12111 0.0629
+178.210.65.38 - - [26/Aug/2013 20:57:01] "HEAD /manager/media/script/mootools/mootools.js HTTP/1.0" 404 12095 0.0627
+178.210.65.38 - - [26/Aug/2013 20:57:02] "HEAD /manager/media/style/MODxCarbon/style.css HTTP/1.0" 404 12094 0.0305
+178.210.65.38 - - [26/Aug/2013 20:57:03] "HEAD /manager HTTP/1.0" 404 12061 0.0635
+178.210.65.38 - - [26/Aug/2013 20:57:04] "HEAD /manager/templates/default/images/style/modx-logo-header.png HTTP/1.0" 404 12113 0.0616
+178.210.65.38 - - [26/Aug/2013 20:57:05] "HEAD /manager/templates/default/images/restyle/headers.jpg HTTP/1.0" 404 12106 0.0272
+178.210.65.38 - - [26/Aug/2013 20:57:07] "HEAD /manager/templates/default/css/login-min.css HTTP/1.0" 404 12097 0.1023
+178.210.65.38 - - [26/Aug/2013 20:57:08] "HEAD /netcat/admin HTTP/1.0" 404 12066 0.0626
+178.210.65.38 - - [26/Aug/2013 20:57:09] "HEAD /netcat/admin/skins/default/img/logo.png HTTP/1.0" 404 12093 0.0632
+178.210.65.38 - - [26/Aug/2013 20:57:10] "HEAD /netcat/admin/skins/default/css/style.css HTTP/1.0" 404 12094 0.1103
+178.210.65.38 - - [26/Aug/2013 20:57:11] "HEAD /netcat/admin/skins/default/css/login.css HTTP/1.0" 404 12094 0.0652
+178.210.65.38 - - [26/Aug/2013 20:57:13] "HEAD /users/forget HTTP/1.0" 404 12066 0.0948
+178.210.65.38 - - [26/Aug/2013 20:57:14] "HEAD /images/cms/admin/mac/common/butterfly.png HTTP/1.0" 404 12095 0.0652
+178.210.65.38 - - [26/Aug/2013 20:57:15] "HEAD /users/registrate HTTP/1.0" 404 12070 0.0806
+178.210.65.38 - - [26/Aug/2013 20:57:16] "HEAD /admin/content/sitetree HTTP/1.0" 404 12076 0.0650
+178.210.65.38 - - [26/Aug/2013 20:57:17] "HEAD /styles/skins/mac/design/css/style.css HTTP/1.0" 404 12091 0.0383
+178.210.65.38 - - [26/Aug/2013 20:57:18] "HEAD /wp-admin HTTP/1.0" 404 12062 0.0653
+178.210.65.38 - - [26/Aug/2013 20:57:20] "HEAD /wp-content HTTP/1.0" 404 12064 0.0495
+178.210.65.38 - - [26/Aug/2013 20:57:21] "HEAD /wp-admin/images/wordpress-logo.png HTTP/1.0" 404 12088 0.0633
+178.210.65.38 - - [26/Aug/2013 20:57:22] "HEAD /wp-login.php HTTP/1.0" 404 12066 0.0629
+178.210.65.38 - - [26/Aug/2013 20:57:23] "HEAD /wp-admin/css/wp-admin.css HTTP/1.0" 404 12079 0.0633
+204.195.10.62 - - [26/Aug/2013 21:03:55] "GET /HNAP1 HTTP/1.1" 404 12058 0.2656
+204.195.10.62 - - [26/Aug/2013 21:03:56] "GET /HNAP1 HTTP/1.0" 404 12058 0.0631
+176.61.139.107 - - [26/Aug/2013 21:44:44] "GET /sprawdza.php HTTP/1.0" 404 12065 0.0630
+178.165.70.123 - - [26/Aug/2013 22:10:48] "GET /administrator/index.php HTTP/1.0" 404 12076 0.0630
+87.249.197.55 - - [27/Aug/2013 01:07:24] "GET /bitrix/admin/index.php HTTP/1.0" 404 12075 0.1165
+91.207.8.42 - - [27/Aug/2013 08:48:06] "GET /admin.php HTTP/1.0" 404 12062 0.0670
+91.207.8.42 - - [27/Aug/2013 08:48:06] "GET /administrator/index.php HTTP/1.0" 404 12076 0.0462
+91.207.8.42 - - [27/Aug/2013 08:48:06] "GET /wp-login.php HTTP/1.0" 404 12065 0.0605
+87.249.197.55 - - [27/Aug/2013 09:36:06] "GET /bitrix/admin/index.php HTTP/1.0" 404 12075 0.1928
+91.226.212.41 - - [27/Aug/2013 09:37:15] "GET /remote.php HTTP/1.0" 404 12063 0.0617
+91.226.212.41 - - [27/Aug/2013 09:37:15] "GET /remote.php HTTP/1.1" 404 12063 0.1035
+223.86.16.253 - - [27/Aug/2013 09:43:11] "GET /w00tw00t.at.blackhats.romanian.anti-sec:) HTTP/1.0" 404 12094 0.0352
+223.86.16.253 - - [27/Aug/2013 09:43:12] "GET /Admin/phpMyAdmin/scripts/setup.php HTTP/1.0" 404 12087 0.0631
+223.86.16.253 - - [27/Aug/2013 09:43:13] "GET /Admin/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12087 0.0627
+223.86.16.253 - - [27/Aug/2013 09:43:13] "GET /Admin/scripts/setup.php HTTP/1.0" 404 12076 0.0633
+223.86.16.253 - - [27/Aug/2013 09:43:14] "GET /MyAdmin/scripts/setup.php HTTP/1.0" 404 12078 0.1160
+223.86.16.253 - - [27/Aug/2013 09:43:15] "GET /SSLMySQLAdmin/scripts/setup.php HTTP/1.0" 404 12084 0.0629
+223.86.16.253 - - [27/Aug/2013 09:43:16] "GET /_PHPMYADMIN/scripts/setup.php HTTP/1.0" 404 12082 0.0631
+223.86.16.253 - - [27/Aug/2013 09:43:17] "GET /_admin/scripts/setup.php HTTP/1.0" 404 12077 0.0536
+223.86.16.253 - - [27/Aug/2013 09:43:18] "GET /_pHpMyAdMiN/scripts/setup.php HTTP/1.0" 404 12082 0.0629
+223.86.16.253 - - [27/Aug/2013 09:43:18] "GET /_phpMyAdmin/scripts/setup.php HTTP/1.0" 404 12082 0.1113
+223.86.16.253 - - [27/Aug/2013 09:43:19] "GET /_phpmyadmin/scripts/setup.php HTTP/1.0" 404 12082 0.0815
+223.86.16.253 - - [27/Aug/2013 09:43:20] "GET /admin/mysql/scripts/setup.php HTTP/1.0" 404 12082 0.0651
+223.86.16.253 - - [27/Aug/2013 09:43:21] "GET /admin/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12087 0.0379
+223.86.16.253 - - [27/Aug/2013 09:43:22] "GET /admin/pma/scripts/setup.php HTTP/1.0" 404 12080 0.0647
+223.86.16.253 - - [27/Aug/2013 09:43:22] "GET /admin/scripts/setup.php HTTP/1.0" 404 12076 0.0640
+223.86.16.253 - - [27/Aug/2013 09:43:23] "GET /admin/sql/scripts/setup.php HTTP/1.0" 404 12080 0.0631
+223.86.16.253 - - [27/Aug/2013 09:43:24] "GET /administrator/components/com_joommyadmin/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12122 0.0626
+223.86.16.253 - - [27/Aug/2013 09:43:25] "GET /adminmysql/scripts/setup.php HTTP/1.0" 404 12081 0.0830
+223.86.16.253 - - [27/Aug/2013 09:43:26] "GET /admm/scripts/setup.php HTTP/1.0" 404 12075 0.0630
+223.86.16.253 - - [27/Aug/2013 09:43:27] "GET /admn/scripts/setup.php HTTP/1.0" 404 12075 0.0625
+223.86.16.253 - - [27/Aug/2013 09:43:27] "GET /apache-default/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12096 0.0657
+223.86.16.253 - - [27/Aug/2013 09:43:28] "GET /bbs/data/scripts/setup.php HTTP/1.0" 404 12079 0.0358
+223.86.16.253 - - [27/Aug/2013 09:43:29] "GET /blog/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12086 0.1164
+223.86.16.253 - - [27/Aug/2013 09:43:30] "GET /cpadmin/scripts/setup.php HTTP/1.0" 404 12078 0.0420
+223.86.16.253 - - [27/Aug/2013 09:43:31] "GET /cpadmindb/scripts/setup.php HTTP/1.0" 404 12080 0.0429
+223.86.16.253 - - [27/Aug/2013 09:43:31] "GET /cpanelmysql/scripts/setup.php HTTP/1.0" 404 12082 0.0274
+223.86.16.253 - - [27/Aug/2013 09:43:32] "GET /cpanelphpmyadmin/scripts/setup.php HTTP/1.0" 404 12087 0.0702
+223.86.16.253 - - [27/Aug/2013 09:43:33] "GET /cpanelsql/scripts/setup.php HTTP/1.0" 404 12080 0.0626
+223.86.16.253 - - [27/Aug/2013 09:43:34] "GET /cpdbadmin/scripts/setup.php HTTP/1.0" 404 12080 0.0627
+223.86.16.253 - - [27/Aug/2013 09:43:35] "GET /cpphpmyadmin/scripts/setup.php HTTP/1.0" 404 12083 0.0964
+223.86.16.253 - - [27/Aug/2013 09:43:35] "GET /database/scripts/setup.php HTTP/1.0" 404 12079 0.0645
+223.86.16.253 - - [27/Aug/2013 09:43:36] "GET /databaseadmin/scripts/setup.php HTTP/1.0" 404 12084 0.0640
+223.86.16.253 - - [27/Aug/2013 09:43:37] "GET /db/scripts/setup.php HTTP/1.0" 404 12073 0.0648
+223.86.16.253 - - [27/Aug/2013 09:43:38] "GET /dbAdmin2/scripts/setup.php HTTP/1.0" 404 12079 0.0922
+223.86.16.253 - - [27/Aug/2013 09:43:39] "GET /dbadm/scripts/setup.php HTTP/1.0" 404 12076 0.0636
+223.86.16.253 - - [27/Aug/2013 09:43:40] "GET /dbadmin/scripts/setup.php HTTP/1.0" 404 12078 0.0628
+223.86.16.253 - - [27/Aug/2013 09:43:40] "GET /dbsql/scripts/setup.php HTTP/1.0" 404 12076 0.0649
+223.86.16.253 - - [27/Aug/2013 09:43:41] "GET /dbweb/scripts/setup.php HTTP/1.0" 404 12076 0.0639
+223.86.16.253 - - [27/Aug/2013 09:43:42] "GET /forum/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12087 0.0634
+223.86.16.253 - - [27/Aug/2013 09:43:43] "GET /htdocs/scripts/setup.php HTTP/1.0" 404 12077 0.0489
+223.86.16.253 - - [27/Aug/2013 09:43:44] "GET /httpdocs/scripts/setup.php HTTP/1.0" 404 12079 0.0629
+223.86.16.253 - - [27/Aug/2013 09:43:44] "GET /myadmin/scripts/setup.php HTTP/1.0" 404 12078 0.0331
+223.86.16.253 - - [27/Aug/2013 09:43:45] "GET /mydatadmin/scripts/setup.php HTTP/1.0" 404 12081 0.0307
+223.86.16.253 - - [27/Aug/2013 09:43:46] "GET /mysql-admin/scripts/setup.php HTTP/1.0" 404 12082 0.1163
+223.86.16.253 - - [27/Aug/2013 09:43:47] "GET /mysql/scripts/setup.php HTTP/1.0" 404 12076 0.0556
+223.86.16.253 - - [27/Aug/2013 09:43:48] "GET /mysqladmin/scripts/setup.php HTTP/1.0" 404 12081 0.0466
+223.86.16.253 - - [27/Aug/2013 09:43:48] "GET /mysqladminconfig/scripts/setup.php HTTP/1.0" 404 12087 0.0656
+223.86.16.253 - - [27/Aug/2013 09:43:49] "GET /mysqlmanager/scripts/setup.php HTTP/1.0" 404 12083 0.1160
+223.86.16.253 - - [27/Aug/2013 09:43:50] "GET /php-my-admin/scripts/setup.php HTTP/1.0" 404 12083 0.0648
+223.86.16.253 - - [27/Aug/2013 09:43:51] "GET /php-myadmin/scripts/setup.php HTTP/1.0" 404 12082 0.0904
+223.86.16.253 - - [27/Aug/2013 09:43:52] "GET /php/phpmyadmin/scripts/setup.php HTTP/1.0" 404 12085 0.0642
+223.86.16.253 - - [27/Aug/2013 09:43:53] "GET /php/scripts/setup.php HTTP/1.0" 404 12074 0.0653
+223.86.16.253 - - [27/Aug/2013 09:43:53] "GET /phpAdmin/scripts/setup.php HTTP/1.0" 404 12079 0.0634
+223.86.16.253 - - [27/Aug/2013 09:43:54] "GET /phpLDAPadmin/scripts/setup.php HTTP/1.0" 404 12083 0.1317
+223.86.16.253 - - [27/Aug/2013 09:43:55] "GET /phpMyAdmin-2.10.0.0/scripts/setup.php HTTP/1.0" 404 12090 0.0633
+223.86.16.253 - - [27/Aug/2013 09:43:56] "GET /phpMyAdmin-2.10.0.1/scripts/setup.php HTTP/1.0" 404 12090 0.0622
+223.86.16.253 - - [27/Aug/2013 09:43:57] "GET /phpMyAdmin-2.10.0.2/scripts/setup.php HTTP/1.0" 404 12090 0.0320
+223.86.16.253 - - [27/Aug/2013 09:43:57] "GET /phpMyAdmin-2.10.0/scripts/setup.php HTTP/1.0" 404 12088 0.0291
+223.86.16.253 - - [27/Aug/2013 09:43:58] "GET /phpMyAdmin-2.10.1.0/scripts/setup.php HTTP/1.0" 404 12090 0.0333
+223.86.16.253 - - [27/Aug/2013 09:43:59] "GET /phpMyAdmin-2.10.2.0/scripts/setup.php HTTP/1.0" 404 12090 0.0302
+223.86.16.253 - - [27/Aug/2013 09:44:00] "GET /phpMyAdmin-2.11.0.0/scripts/setup.php HTTP/1.0" 404 12090 0.1177
+223.86.16.253 - - [27/Aug/2013 09:44:01] "GET /phpMyAdmin-2.11.1-all-languages/scripts/setup.php HTTP/1.0" 404 12102 0.0442
+223.86.16.253 - - [27/Aug/2013 09:44:01] "GET /phpMyAdmin-2.11.1.0/scripts/setup.php HTTP/1.0" 404 12090 0.0521
+223.86.16.253 - - [27/Aug/2013 09:44:02] "GET /phpMyAdmin-2.11.1.1/scripts/setup.php HTTP/1.0" 404 12090 0.0521
+223.86.16.253 - - [27/Aug/2013 09:44:03] "GET /phpMyAdmin-2.11.1.2/scripts/setup.php HTTP/1.0" 404 12090 0.0545
+223.86.16.253 - - [27/Aug/2013 09:44:04] "GET /phpMyAdmin-2.11.1/scripts/setup.php HTTP/1.0" 404 12088 0.0589
+223.86.16.253 - - [27/Aug/2013 09:44:05] "GET /phpMyAdmin-2.11.10/scripts/setup.php HTTP/1.0" 404 12089 0.1211
+223.86.16.253 - - [27/Aug/2013 09:44:05] "GET /phpMyAdmin-2.11.11-all-languages/scripts/setup.php HTTP/1.0" 404 12103 0.0651
+223.86.16.253 - - [27/Aug/2013 09:44:06] "GET /phpMyAdmin-2.11.2.0/scripts/setup.php HTTP/1.0" 404 12090 0.0677
+223.86.16.253 - - [27/Aug/2013 09:44:07] "GET /phpMyAdmin-2.11.2.1/scripts/setup.php HTTP/1.0" 404 12090 0.0585
+223.86.16.253 - - [27/Aug/2013 09:44:08] "GET /phpMyAdmin-2.11.2.2/scripts/setup.php HTTP/1.0" 404 12090 0.0801
+223.86.16.253 - - [27/Aug/2013 09:44:09] "GET /phpMyAdmin-2.11.2/scripts/setup.php HTTP/1.0" 404 12088 0.0650
+223.86.16.253 - - [27/Aug/2013 09:44:10] "GET /phpMyAdmin-2.11.3-all-languages/scripts/setup.php HTTP/1.0" 404 12102 0.0554
+223.86.16.253 - - [27/Aug/2013 09:44:10] "GET /phpMyAdmin-2.11.3.0/scripts/setup.php HTTP/1.0" 404 12090 0.0637
+223.86.16.253 - - [27/Aug/2013 09:44:11] "GET /phpMyAdmin-2.11.3/scripts/setup.php HTTP/1.0" 404 12088 0.0408
+223.86.16.253 - - [27/Aug/2013 09:44:12] "GET /phpMyAdmin-2.11.4.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0638
+223.86.16.253 - - [27/Aug/2013 09:44:13] "GET /phpMyAdmin-2.11.4.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0631
+223.86.16.253 - - [27/Aug/2013 09:44:14] "GET /phpMyAdmin-2.11.4.0/scripts/setup.php HTTP/1.0" 404 12090 0.0629
+223.86.16.253 - - [27/Aug/2013 09:44:14] "GET /phpMyAdmin-2.11.4/scripts/setup.php HTTP/1.0" 404 12088 0.0657
+223.86.16.253 - - [27/Aug/2013 09:44:15] "GET /phpMyAdmin-2.11.5.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0506
+223.86.16.253 - - [27/Aug/2013 09:44:16] "GET /phpMyAdmin-2.11.5.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0611
+223.86.16.253 - - [27/Aug/2013 09:44:17] "GET /phpMyAdmin-2.11.5.0/scripts/setup.php HTTP/1.0" 404 12090 0.0632
+223.86.16.253 - - [27/Aug/2013 09:44:18] "GET /phpMyAdmin-2.11.5.1/scripts/setup.php HTTP/1.0" 404 12090 0.0628
+223.86.16.253 - - [27/Aug/2013 09:44:18] "GET /phpMyAdmin-2.11.5.2/scripts/setup.php HTTP/1.0" 404 12090 0.0686
+223.86.16.253 - - [27/Aug/2013 09:44:19] "GET /phpMyAdmin-2.11.5/scripts/setup.php HTTP/1.0" 404 12088 0.0649
+223.86.16.253 - - [27/Aug/2013 09:44:20] "GET /phpMyAdmin-2.11.6.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.1033
+223.86.16.253 - - [27/Aug/2013 09:44:21] "GET /phpMyAdmin-2.11.6.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0374
+223.86.16.253 - - [27/Aug/2013 09:44:22] "GET /phpMyAdmin-2.11.6.0/scripts/setup.php HTTP/1.0" 404 12090 0.0346
+223.86.16.253 - - [27/Aug/2013 09:44:23] "GET /phpMyAdmin-2.11.6/scripts/setup.php HTTP/1.0" 404 12088 0.1322
+223.86.16.253 - - [27/Aug/2013 09:44:23] "GET /phpMyAdmin-2.11.7.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0467
+223.86.16.253 - - [27/Aug/2013 09:44:24] "GET /phpMyAdmin-2.11.7.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0359
+223.86.16.253 - - [27/Aug/2013 09:44:25] "GET /phpMyAdmin-2.11.7.0/scripts/setup.php HTTP/1.0" 404 12090 0.0310
+223.86.16.253 - - [27/Aug/2013 09:44:26] "GET /phpMyAdmin-2.11.7.1-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0641
+223.86.16.253 - - [27/Aug/2013 09:44:27] "GET /phpMyAdmin-2.11.7.1-english/scripts/setup.php HTTP/1.0" 404 12098 0.0679
+223.86.16.253 - - [27/Aug/2013 09:44:27] "GET /phpMyAdmin-2.11.7.1/scripts/setup.php HTTP/1.0" 404 12090 0.0448
+223.86.16.253 - - [27/Aug/2013 09:44:28] "GET /phpMyAdmin-2.11.7/scripts/setup.php HTTP/1.0" 404 12088 0.0372
+223.86.16.253 - - [27/Aug/2013 09:44:29] "GET /phpMyAdmin-2.11.8.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0632
+223.86.16.253 - - [27/Aug/2013 09:44:30] "GET /phpMyAdmin-2.11.8.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0628
+223.86.16.253 - - [27/Aug/2013 09:44:31] "GET /phpMyAdmin-2.11.8.0/scripts/setup.php HTTP/1.0" 404 12090 0.0951
+223.86.16.253 - - [27/Aug/2013 09:44:31] "GET /phpMyAdmin-2.11.8.1-all-languages-utf-8-only/scripts/setup.php HTTP/1.0" 404 12115 0.0388
+223.86.16.253 - - [27/Aug/2013 09:44:32] "GET /phpMyAdmin-2.11.8/scripts/setup.php HTTP/1.0" 404 12088 0.0359
+223.86.16.253 - - [27/Aug/2013 09:44:33] "GET /phpMyAdmin-2.11.9.0-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0465
+223.86.16.253 - - [27/Aug/2013 09:44:34] "GET /phpMyAdmin-2.11.9.0-english/scripts/setup.php HTTP/1.0" 404 12098 0.0650
+223.86.16.253 - - [27/Aug/2013 09:44:35] "GET /phpMyAdmin-2.11.9.0/scripts/setup.php HTTP/1.0" 404 12090 0.1089
+223.86.16.253 - - [27/Aug/2013 09:44:36] "GET /phpMyAdmin-2.11.9.1-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.1196
+223.86.16.253 - - [27/Aug/2013 09:44:36] "GET /phpMyAdmin-2.11.9.1-english/scripts/setup.php HTTP/1.0" 404 12098 0.0496
+223.86.16.253 - - [27/Aug/2013 09:44:37] "GET /phpMyAdmin-2.11.9.1/scripts/setup.php HTTP/1.0" 404 12090 0.0639
+223.86.16.253 - - [27/Aug/2013 09:44:38] "GET /phpMyAdmin-2.11.9.2-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0638
+223.86.16.253 - - [27/Aug/2013 09:44:39] "GET /phpMyAdmin-2.11.9.2-english/scripts/setup.php HTTP/1.0" 404 12098 0.0689
+223.86.16.253 - - [27/Aug/2013 09:44:40] "GET /phpMyAdmin-2.11.9.2/scripts/setup.php HTTP/1.0" 404 12090 0.0370
+223.86.16.253 - - [27/Aug/2013 09:44:40] "GET /phpMyAdmin-2.11.9.3-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0384
+223.86.16.253 - - [27/Aug/2013 09:44:41] "GET /phpMyAdmin-2.11.9.3-english/scripts/setup.php HTTP/1.0" 404 12098 0.0397
+223.86.16.253 - - [27/Aug/2013 09:44:42] "GET /phpMyAdmin-2.11.9.3/scripts/setup.php HTTP/1.0" 404 12090 0.0648
+223.86.16.253 - - [27/Aug/2013 09:44:43] "GET /phpMyAdmin-2.11.9.4-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.0649
+223.86.16.253 - - [27/Aug/2013 09:44:44] "GET /phpMyAdmin-2.11.9.4-english/scripts/setup.php HTTP/1.0" 404 12098 0.0639
+223.86.16.253 - - [27/Aug/2013 09:44:44] "GET /phpMyAdmin-2.11.9.4/scripts/setup.php HTTP/1.0" 404 12090 0.0629
+223.86.16.253 - - [27/Aug/2013 09:44:45] "GET /phpMyAdmin-2.11.9.5-all-languages/scripts/setup.php HTTP/1.0" 404 12104 0.1095
+223.86.16.253 - - [27/Aug/2013 09:44:46] "GET /phpMyAdmin-2.11.9/scripts/setup.php HTTP/1.0" 404 12088 0.0635
+223.86.16.253 - - [27/Aug/2013 09:44:47] "GET /phpMyAdmin-2.2.3/scripts/setup.php HTTP/1.0" 404 12087 0.0352
+223.86.16.253 - - [27/Aug/2013 09:44:48] "GET /phpMyAdmin-2.2.6/scripts/setup.php HTTP/1.0" 404 12087 0.0358
+223.86.16.253 - - [27/Aug/2013 09:44:48] "GET /phpMyAdmin-2.3.0/scripts/setup.php HTTP/1.0" 404 12087 0.0608
+223.86.16.253 - - [27/Aug/2013 09:44:49] "GET /phpMyAdmin-2.3.1/scripts/setup.php HTTP/1.0" 404 12087 0.0301
+223.86.16.253 - - [27/Aug/2013 09:44:50] "GET /phpMyAdmin-2.3.2/scripts/setup.php HTTP/1.0" 404 12087 0.1169
+223.86.16.253 - - [27/Aug/2013 09:44:51] "GET /phpMyAdmin-2.3.3/scripts/setup.php HTTP/1.0" 404 12087 0.0925
+223.86.16.253 - - [27/Aug/2013 09:44:52] "GET /phpMyAdmin-2.3.4/scripts/setup.php HTTP/1.0" 404 12087 0.0649
+223.86.16.253 - - [27/Aug/2013 09:44:53] "GET /phpMyAdmin-2.3.5/scripts/setup.php HTTP/1.0" 404 12087 0.0652
+223.86.16.253 - - [27/Aug/2013 09:44:53] "GET /phpMyAdmin-2.3.6/scripts/setup.php HTTP/1.0" 404 12087 0.0641
+223.86.16.253 - - [27/Aug/2013 09:44:54] "GET /phpMyAdmin-2.3.7/scripts/setup.php HTTP/1.0" 404 12087 0.0633
+223.86.16.253 - - [27/Aug/2013 09:44:55] "GET /phpMyAdmin-2.3.8/scripts/setup.php HTTP/1.0" 404 12087 0.1409
+223.86.16.253 - - [27/Aug/2013 09:44:56] "GET /phpMyAdmin-2.3.9/scripts/setup.php HTTP/1.0" 404 12087 0.0687
+223.86.16.253 - - [27/Aug/2013 09:44:57] "GET /phpMyAdmin-2.4.0/scripts/setup.php HTTP/1.0" 404 12087 0.0484
+223.86.16.253 - - [27/Aug/2013 09:44:58] "GET /phpMyAdmin-2.4.1/scripts/setup.php HTTP/1.0" 404 12087 0.0651
+223.86.16.253 - - [27/Aug/2013 09:44:58] "GET /phpMyAdmin-2.4.2/scripts/setup.php HTTP/1.0" 404 12087 0.0639
+223.86.16.253 - - [27/Aug/2013 09:44:59] "GET /phpMyAdmin-2.4.3/scripts/setup.php HTTP/1.0" 404 12087 0.0641
+223.86.16.253 - - [27/Aug/2013 09:45:00] "GET /phpMyAdmin-2.4.4/scripts/setup.php HTTP/1.0" 404 12087 0.0583
+223.86.16.253 - - [27/Aug/2013 09:45:01] "GET /phpMyAdmin-2.4.5/scripts/setup.php HTTP/1.0" 404 12087 0.0427
+223.86.16.253 - - [27/Aug/2013 09:45:02] "GET /phpMyAdmin-2.4.6/scripts/setup.php HTTP/1.0" 404 12087 0.1207
+223.86.16.253 - - [27/Aug/2013 09:45:02] "GET /phpMyAdmin-2.4.7/scripts/setup.php HTTP/1.0" 404 12087 0.0652
+223.86.16.253 - - [27/Aug/2013 09:45:03] "GET /phpMyAdmin-2.4.8/scripts/setup.php HTTP/1.0" 404 12087 0.0654
+223.86.16.253 - - [27/Aug/2013 09:45:04] "GET /phpMyAdmin-2.4.9/scripts/setup.php HTTP/1.0" 404 12087 0.1024
+223.86.16.253 - - [27/Aug/2013 09:45:05] "GET /phpMyAdmin-2.5.0/scripts/setup.php HTTP/1.0" 404 12087 0.0651
+223.86.16.253 - - [27/Aug/2013 09:45:06] "GET /phpMyAdmin-2.5.1/scripts/setup.php HTTP/1.0" 404 12087 0.0630
+223.86.16.253 - - [27/Aug/2013 09:45:07] "GET /phpMyAdmin-2.5.2/scripts/setup.php HTTP/1.0" 404 12087 0.0535
+223.86.16.253 - - [27/Aug/2013 09:45:07] "GET /phpMyAdmin-2.5.3/scripts/setup.php HTTP/1.0" 404 12087 0.0638
+223.86.16.253 - - [27/Aug/2013 09:45:08] "GET /phpMyAdmin-2.5.4/scripts/setup.php HTTP/1.0" 404 12087 0.0473
+223.86.16.253 - - [27/Aug/2013 09:45:09] "GET /phpMyAdmin-2.5.5-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0654
+223.86.16.253 - - [27/Aug/2013 09:45:10] "GET /phpMyAdmin-2.5.5-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0630
+223.86.16.253 - - [27/Aug/2013 09:45:11] "GET /phpMyAdmin-2.5.5-rc1config/scripts/setup.php HTTP/1.0" 404 12097 0.0520
+223.86.16.253 - - [27/Aug/2013 09:45:11] "GET /phpMyAdmin-2.5.5-rc2/scripts/setup.php HTTP/1.0" 404 12091 0.0655
+223.86.16.253 - - [27/Aug/2013 09:45:12] "GET /phpMyAdmin-2.5.5/scripts/setup.php HTTP/1.0" 404 12087 0.0628
+223.86.16.253 - - [27/Aug/2013 09:45:13] "GET /phpMyAdmin-2.5.6-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0654
+223.86.16.253 - - [27/Aug/2013 09:45:14] "GET /phpMyAdmin-2.5.6-rc2/scripts/setup.php HTTP/1.0" 404 12091 0.0797
+223.86.16.253 - - [27/Aug/2013 09:45:15] "GET /phpMyAdmin-2.5.6/scripts/setup.php HTTP/1.0" 404 12087 0.0311
+223.86.16.253 - - [27/Aug/2013 09:45:15] "GET /phpMyAdmin-2.5.7-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0879
+223.86.16.253 - - [27/Aug/2013 09:45:16] "GET /phpMyAdmin-2.5.7/scripts/setup.php HTTP/1.0" 404 12087 0.1410
+223.86.16.253 - - [27/Aug/2013 09:45:17] "GET /phpMyAdmin-2.5.8/scripts/setup.php HTTP/1.0" 404 12087 0.0646
+223.86.16.253 - - [27/Aug/2013 09:45:18] "GET /phpMyAdmin-2.5.9/scripts/setup.php HTTP/1.0" 404 12087 0.0637
+223.86.16.253 - - [27/Aug/2013 09:45:19] "GET /phpMyAdmin-2.6.0-alpha/scripts/setup.php HTTP/1.0" 404 12093 0.0651
+223.86.16.253 - - [27/Aug/2013 09:45:20] "GET /phpMyAdmin-2.6.0-alpha2/scripts/setup.php HTTP/1.0" 404 12094 0.0641
+223.86.16.253 - - [27/Aug/2013 09:45:20] "GET /phpMyAdmin-2.6.0-beta1/scripts/setup.php HTTP/1.0" 404 12093 0.0645
+223.86.16.253 - - [27/Aug/2013 09:45:21] "GET /phpMyAdmin-2.6.0-beta2/scripts/setup.php HTTP/1.0" 404 12093 0.0635
+223.86.16.253 - - [27/Aug/2013 09:45:22] "GET /phpMyAdmin-2.6.0-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0631
+223.86.16.253 - - [27/Aug/2013 09:45:23] "GET /phpMyAdmin-2.6.0-pl2/scripts/setup.php HTTP/1.0" 404 12091 0.0629
+223.86.16.253 - - [27/Aug/2013 09:45:24] "GET /phpMyAdmin-2.6.0-pl3/scripts/setup.php HTTP/1.0" 404 12091 0.0905
+223.86.16.253 - - [27/Aug/2013 09:45:25] "GET /phpMyAdmin-2.6.0-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0651
+223.86.16.253 - - [27/Aug/2013 09:45:25] "GET /phpMyAdmin-2.6.0-rc2/scripts/setup.php HTTP/1.0" 404 12091 0.0333
+223.86.16.253 - - [27/Aug/2013 09:45:26] "GET /phpMyAdmin-2.6.0-rc3/scripts/setup.php HTTP/1.0" 404 12091 0.0654
+223.86.16.253 - - [27/Aug/2013 09:45:27] "GET /phpMyAdmin-2.6.0/scripts/setup.php HTTP/1.0" 404 12087 0.0632
+223.86.16.253 - - [27/Aug/2013 09:45:28] "GET /phpMyAdmin-2.6.1-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.1410
+223.86.16.253 - - [27/Aug/2013 09:45:29] "GET /phpMyAdmin-2.6.1-pl2/scripts/setup.php HTTP/1.0" 404 12091 0.0651
+223.86.16.253 - - [27/Aug/2013 09:45:29] "GET /phpMyAdmin-2.6.1-pl3/scripts/setup.php HTTP/1.0" 404 12091 0.0633
+223.86.16.253 - - [27/Aug/2013 09:45:30] "GET /phpMyAdmin-2.6.1-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0647
+223.86.16.253 - - [27/Aug/2013 09:45:31] "GET /phpMyAdmin-2.6.1-rc2/scripts/setup.php HTTP/1.0" 404 12091 0.0899
+223.86.16.253 - - [27/Aug/2013 09:45:32] "GET /phpMyAdmin-2.6.1/scripts/setup.php HTTP/1.0" 404 12087 0.0386
+223.86.16.253 - - [27/Aug/2013 09:45:33] "GET /phpMyAdmin-2.6.2-beta1/scripts/setup.php HTTP/1.0" 404 12093 0.0650
+223.86.16.253 - - [27/Aug/2013 09:45:34] "GET /phpMyAdmin-2.6.2-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0632
+223.86.16.253 - - [27/Aug/2013 09:45:34] "GET /phpMyAdmin-2.6.2-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0632
+223.86.16.253 - - [27/Aug/2013 09:45:35] "GET /phpMyAdmin-2.6.2/scripts/setup.php HTTP/1.0" 404 12087 0.0628
+223.86.16.253 - - [27/Aug/2013 09:45:36] "GET /phpMyAdmin-2.6.3-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0655
+223.86.16.253 - - [27/Aug/2013 09:45:37] "GET /phpMyAdmin-2.6.3-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0711
+223.86.16.253 - - [27/Aug/2013 09:45:38] "GET /phpMyAdmin-2.6.3/scripts/setup.php HTTP/1.0" 404 12087 0.1087
+223.86.16.253 - - [27/Aug/2013 09:45:39] "GET /phpMyAdmin-2.6.4-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.0645
+223.86.16.253 - - [27/Aug/2013 09:45:39] "GET /phpMyAdmin-2.6.4-pl2/scripts/setup.php HTTP/1.0" 404 12091 0.0394
+223.86.16.253 - - [27/Aug/2013 09:45:40] "GET /phpMyAdmin-2.6.4-pl3/scripts/setup.php HTTP/1.0" 404 12091 0.0649
+223.86.16.253 - - [27/Aug/2013 09:45:41] "GET /phpMyAdmin-2.6.4-pl4/scripts/setup.php HTTP/1.0" 404 12091 0.0655
+223.86.16.253 - - [27/Aug/2013 09:45:42] "GET /phpMyAdmin-2.6.4-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0634
+223.86.16.253 - - [27/Aug/2013 09:45:43] "GET /phpMyAdmin-2.6.4/scripts/setup.php HTTP/1.0" 404 12087 0.0631
+223.86.16.253 - - [27/Aug/2013 09:45:43] "GET /phpMyAdmin-2.6.5/scripts/setup.php HTTP/1.0" 404 12087 0.0883
+223.86.16.253 - - [27/Aug/2013 09:45:44] "GET /phpMyAdmin-2.6.6/scripts/setup.php HTTP/1.0" 404 12087 0.0630
+223.86.16.253 - - [27/Aug/2013 09:45:45] "GET /phpMyAdmin-2.6.7/scripts/setup.php HTTP/1.0" 404 12087 0.0806
+223.86.16.253 - - [27/Aug/2013 09:45:46] "GET /phpMyAdmin-2.6.8/scripts/setup.php HTTP/1.0" 404 12087 0.0285
+223.86.16.253 - - [27/Aug/2013 09:45:47] "GET /phpMyAdmin-2.6.9/scripts/setup.php HTTP/1.0" 404 12087 0.0649
+223.86.16.253 - - [27/Aug/2013 09:45:47] "GET /phpMyAdmin-2.7.0-beta1/scripts/setup.php HTTP/1.0" 404 12093 0.0651
+223.86.16.253 - - [27/Aug/2013 09:45:48] "GET /phpMyAdmin-2.7.0-pl1/scripts/setup.php HTTP/1.0" 404 12091 0.1065
+223.86.16.253 - - [27/Aug/2013 09:45:49] "GET /phpMyAdmin-2.7.0-pl2/scripts/setup.php HTTP/1.0" 404 12091 0.0635
+223.86.16.253 - - [27/Aug/2013 09:45:50] "GET /phpMyAdmin-2.7.0-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0631
+223.86.16.253 - - [27/Aug/2013 09:45:51] "GET /phpMyAdmin-2.7.0/scripts/setup.php HTTP/1.0" 404 12087 0.0634
+223.86.16.253 - - [27/Aug/2013 09:45:52] "GET /phpMyAdmin-2.7.1/scripts/setup.php HTTP/1.0" 404 12087 0.0649
+223.86.16.253 - - [27/Aug/2013 09:45:52] "GET /phpMyAdmin-2.7.2/scripts/setup.php HTTP/1.0" 404 12087 0.0677
+223.86.16.253 - - [27/Aug/2013 09:45:53] "GET /phpMyAdmin-2.7.3/scripts/setup.php HTTP/1.0" 404 12087 0.0630
+223.86.16.253 - - [27/Aug/2013 09:45:54] "GET /phpMyAdmin-2.7.4/scripts/setup.php HTTP/1.0" 404 12087 0.0634
+223.86.16.253 - - [27/Aug/2013 09:45:55] "GET /phpMyAdmin-2.7.5/scripts/setup.php HTTP/1.0" 404 12087 0.0883
+223.86.16.253 - - [27/Aug/2013 09:45:56] "GET /phpMyAdmin-2.7.6/scripts/setup.php HTTP/1.0" 404 12087 0.0635
+223.86.16.253 - - [27/Aug/2013 09:45:57] "GET /phpMyAdmin-2.7.7/scripts/setup.php HTTP/1.0" 404 12087 0.0634
+223.86.16.253 - - [27/Aug/2013 09:45:57] "GET /phpMyAdmin-2.7.8/scripts/setup.php HTTP/1.0" 404 12087 0.0379
+223.86.16.253 - - [27/Aug/2013 09:45:58] "GET /phpMyAdmin-2.7.9/scripts/setup.php HTTP/1.0" 404 12087 0.0648
+223.86.16.253 - - [27/Aug/2013 09:45:59] "GET /phpMyAdmin-2.8.0-beta1/scripts/setup.php HTTP/1.0" 404 12093 0.0665
+223.86.16.253 - - [27/Aug/2013 09:46:00] "GET /phpMyAdmin-2.8.0-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0789
+223.86.16.253 - - [27/Aug/2013 09:46:01] "GET /phpMyAdmin-2.8.0-rc2/scripts/setup.php HTTP/1.0" 404 12091 0.1292
+223.86.16.253 - - [27/Aug/2013 09:46:01] "GET /phpMyAdmin-2.8.0.1/scripts/setup.php HTTP/1.0" 404 12089 0.0443
+223.86.16.253 - - [27/Aug/2013 09:46:06] "GET /phpMyAdmin-2.8.0.2/scripts/setup.php HTTP/1.0" 404 12089 0.0654
+223.86.16.253 - - [27/Aug/2013 09:46:07] "GET /phpMyAdmin-2.8.0.3/scripts/setup.php HTTP/1.0" 404 12089 0.0640
+223.86.16.253 - - [27/Aug/2013 09:46:08] "GET /phpMyAdmin-2.8.0.4/scripts/setup.php HTTP/1.0" 404 12089 0.0335
+223.86.16.253 - - [27/Aug/2013 09:46:08] "GET /phpMyAdmin-2.8.0/scripts/setup.php HTTP/1.0" 404 12087 0.0658
+223.86.16.253 - - [27/Aug/2013 09:46:09] "GET /phpMyAdmin-2.8.1-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0819
+223.86.16.253 - - [27/Aug/2013 09:46:10] "GET /phpMyAdmin-2.8.1/scripts/setup.php HTTP/1.0" 404 12087 0.0635
+223.86.16.253 - - [27/Aug/2013 09:46:11] "GET /phpMyAdmin-2.8.2.1/scripts/setup.php HTTP/1.0" 404 12089 0.0632
+223.86.16.253 - - [27/Aug/2013 09:46:12] "GET /phpMyAdmin-2.8.2.2/scripts/setup.php HTTP/1.0" 404 12089 0.0629
+223.86.16.253 - - [27/Aug/2013 09:46:13] "GET /phpMyAdmin-2.8.2.3/scripts/setup.php HTTP/1.0" 404 12089 0.0644
+223.86.16.253 - - [27/Aug/2013 09:46:13] "GET /phpMyAdmin-2.8.2.4/scripts/setup.php HTTP/1.0" 404 12089 0.0839
+223.86.16.253 - - [27/Aug/2013 09:46:14] "GET /phpMyAdmin-2.8.2/scripts/setup.php HTTP/1.0" 404 12087 0.0364
+223.86.16.253 - - [27/Aug/2013 09:46:15] "GET /phpMyAdmin-2.8.3/scripts/setup.php HTTP/1.0" 404 12087 0.0652
+223.86.16.253 - - [27/Aug/2013 09:46:16] "GET /phpMyAdmin-2.8.4/scripts/setup.php HTTP/1.0" 404 12087 0.0733
+223.86.16.253 - - [27/Aug/2013 09:46:17] "GET /phpMyAdmin-2.8.5/scripts/setup.php HTTP/1.0" 404 12087 0.0634
+223.86.16.253 - - [27/Aug/2013 09:46:17] "GET /phpMyAdmin-2.8.6/scripts/setup.php HTTP/1.0" 404 12087 0.0633
+223.86.16.253 - - [27/Aug/2013 09:46:18] "GET /phpMyAdmin-2.8.7/scripts/setup.php HTTP/1.0" 404 12087 0.0573
+223.86.16.253 - - [27/Aug/2013 09:46:19] "GET /phpMyAdmin-2.8.8/scripts/setup.php HTTP/1.0" 404 12087 0.0674
+223.86.16.253 - - [27/Aug/2013 09:46:20] "GET /phpMyAdmin-2.8.9/scripts/setup.php HTTP/1.0" 404 12087 0.0643
+223.86.16.253 - - [27/Aug/2013 09:46:21] "GET /phpMyAdmin-2.9.0-rc1/scripts/setup.php HTTP/1.0" 404 12091 0.0637
+223.86.16.253 - - [27/Aug/2013 09:46:22] "GET /phpMyAdmin-2.9.0.1/scripts/setup.php HTTP/1.0" 404 12089 0.1165
+223.86.16.253 - - [27/Aug/2013 09:46:22] "GET /phpMyAdmin-2.9.0.2/scripts/setup.php HTTP/1.0" 404 12089 0.0557
+223.86.16.253 - - [27/Aug/2013 09:46:23] "GET /phpMyAdmin-2.9.0/scripts/setup.php HTTP/1.0" 404 12087 0.0352
+223.86.16.253 - - [27/Aug/2013 09:46:24] "GET /phpMyAdmin-2.9.1/scripts/setup.php HTTP/1.0" 404 12087 0.0632
+223.86.16.253 - - [27/Aug/2013 09:46:25] "GET /phpMyAdmin-2.9.2/scripts/setup.php HTTP/1.0" 404 12087 0.0627
+223.86.16.253 - - [27/Aug/2013 09:46:26] "GET /phpMyAdmin-2/scripts/setup.php HTTP/1.0" 404 12083 0.0824
+178.216.50.22 - - [27/Aug/2013 18:31:48] "GET /sprawdza.php HTTP/1.1" 404 12065 0.1513
+178.165.70.123 - - [27/Aug/2013 23:35:49] "GET /xmlrpc.php HTTP/1.0" 404 12063 0.0670
+192.168.6.167, 69.164.111.198 - - [28/Aug/2013 00:23:52] "GET /assets/rails.png HTTP/1.0" 404 12069 0.0733
+5.34.243.145 - - [28/Aug/2013 03:42:04] "GET /sprawdza.php HTTP/1.0" 404 12065 0.0634
+178.165.70.123 - - [28/Aug/2013 06:07:21] "GET /xmlrpc.php HTTP/1.0" 404 12063 0.0656
+77.78.104.50 - - [28/Aug/2013 07:00:38] "HEAD /server-status HTTP/1.0" 404 12067 0.0847
+46.149.226.42 - - [28/Aug/2013 09:09:05] "GET /assets/rails.png HTTP/1.0" 404 12069 0.0745
+46.149.226.42 - - [28/Aug/2013 09:09:06] "GET /rails/info/properties HTTP/1.0" 200 - 0.0323
+46.149.226.42 - - [28/Aug/2013 09:09:08] "GET /rails/info/properties HTTP/1.0" 200 - 0.1097
+174.129.41.41 - - [28/Aug/2013 09:54:56] "GET /user/soapCaller.bs HTTP/1.0" 404 12071 0.0649
+46.149.226.42 - - [28/Aug/2013 10:06:17] "GET /assets/rails.png HTTP/1.0" 404 14668 0.1555
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /statuses HTTP/1.0" 200 - 1.7038
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /scaffolds.css?body=1 HTTP/1.0" 200 1047 0.0132
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /application.css?body=1 HTTP/1.0" 200 513 0.0591
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /statuses.css?body=1 HTTP/1.0" 200 - 0.0044
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /jquery_ujs.js?body=1 HTTP/1.0" 200 15477 0.0054
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /turbolinks.js?body=1 HTTP/1.0" 200 13212 0.0049
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /statuses.js?body=1 HTTP/1.0" 200 31 0.0068
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /jquery.js?body=1 HTTP/1.0" 200 273200 0.0725
+46.149.226.42 - - [28/Aug/2013 10:06:32] "GET /application.js?body=1 HTTP/1.0" 200 586 0.0116
+46.149.226.42 - - [28/Aug/2013 10:06:37] "GET /statuses/new HTTP/1.0" 200 - 0.1651
+46.149.226.42 - - [28/Aug/2013 10:07:09] "POST /statuses HTTP/1.0" 302 - 0.3710
+46.149.226.42 - - [28/Aug/2013 10:07:09] "GET /statuses/1 HTTP/1.0" 200 - 0.0811
+46.149.226.42 - - [28/Aug/2013 10:07:09] "GET /scaffolds.css?body=1 HTTP/1.0" 304 - 0.0036
+46.149.226.42 - - [28/Aug/2013 10:07:09] "GET /statuses.js?body=1 HTTP/1.0" 304 - 0.0122
+46.149.226.42 - - [28/Aug/2013 10:07:09] "GET /statuses.css?body=1 HTTP/1.0" 304 - 0.0888
+46.149.226.42 - - [28/Aug/2013 10:07:13] "GET /statuses/1/edit HTTP/1.0" 200 - 0.0340
+46.149.226.42 - - [28/Aug/2013 10:07:17] "PATCH /statuses/1 HTTP/1.0" 302 - 0.2601
+46.149.226.42 - - [28/Aug/2013 10:07:17] "GET /statuses/1 HTTP/1.0" 200 - 0.1139
+46.149.226.42 - - [28/Aug/2013 10:07:17] "GET /statuses.css?body=1 HTTP/1.0" 304 - 0.0056
+46.149.226.42 - - [28/Aug/2013 10:07:17] "GET /statuses.js?body=1 HTTP/1.0" 304 - 0.0068
+46.149.226.42 - - [28/Aug/2013 10:07:41] "GET /statuses HTTP/1.0" 200 - 0.0342
